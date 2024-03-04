@@ -11,8 +11,9 @@ This user script is designed to enhance your experience on https://chat.openai.c
 ## Usage
 Once installed, the script runs automatically on pages matching the pattern `https://chat.openai.com/*`. It requires no manual intervention. Ensure the "prompt" parameter is included in the URL to see the script in action.
 
-For my side, I'm using it with a custom quicklink with [raycast](https://www.raycast.com/) to enable a quick access to chat gpt prompt.
+For my side, I'm using it with a custom quicklink with [raycast](https://www.raycast.com/) to enable a quick access to chat gpt prompt binded on `CMD+ESC`.
 
+![raycast setup](./raycast_setup.png)
 
 
 ## Compatibility
